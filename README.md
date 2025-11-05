@@ -15,13 +15,21 @@ With a strong foundation in **business management** and **data science**, I desi
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 Labs & Frameworks
 | Project | Description | Stack |
 |----------|--------------|-------|
 | [**Data Engineering Lab**](https://github.com/matteo110918/data-engineering-lab/tree/main) | Experiments and frameworks for modern data pipelines | Python, SQL, ADF, PySpark |
 | [**Analytics & BI Showcase**](https://github.com/matteo110918/analytics-bi-showcase) | Business analytics & visualization demos with KPI frameworks | Python, SQL, Power BI |
 | [**AI & Data Automation Lab**](https://github.com/matteo110918/ai-data-automation-lab) | AI-assisted automation for data workflows and insights | OpenAI API, Azure Foundry, Python |
 | [**Data Strategy Playbook**](https://github.com/matteo110918/data-strategy-playbook) | Strategic frameworks for data governance and architecture | Azure, Databricks |
+
+---
+
+### ⚗️ Proof of Concepts (POCs)
+| Project | Description | Stack |
+|----------|--------------|-------|
+| [**PRISMA – Content Understanding POC**](https://github.com/matteo110918/prisma_poc) | AI-powered document analysis using Azure Content Understanding to extract and structure semantic information from PDFs | Python, Azure Foundry, JSON |
+| *(More coming soon...)* | | |
 
 ---
 
