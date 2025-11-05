@@ -18,10 +18,10 @@ With a strong foundation in **business management** and **data science**, I desi
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |----------|--------------|-------|
-| [**Modern Data Pipeline Demo**](#) | End-to-end ETL pipeline (Airflow + dbt + Power BI) | Python, SQL, dbt, Airflow |
-| [**Analytics Toolkit**](#) | Business metrics library (LTV, Churn, ROI, etc.) | Python, Pandas, Power BI |
-| [**Prompt Engineering for Data**](#) | LLM-based automation for data modeling & insights | OpenAI API, LangChain |
-| [**Data Strategy Blueprint**](#) | Templates for modern data stack governance | Markdown, YAML, dbt |
+| [**Data Engineering Lab**](https://github.com/matteo110918/data-engineering-lab/tree/main) | Experiments and frameworks for modern data pipelines | Python, SQL, ADF, PySpark |
+| [**Analytics & BI Showcase**](https://github.com/matteo110918/analytics-bi-showcase) | Business analytics & visualization demos with KPI frameworks | Python, SQL, Power BI |
+| [**AI & Data Automation Lab**](https://github.com/matteo110918/ai-data-automation-lab) | AI-assisted automation for data workflows and insights | OpenAI API, Azure Foundry, Python |
+| [**Data Strategy Playbook**](https://github.com/matteo110918/data-strategy-playbook) | Strategic frameworks for data governance and architecture | Azure, Databricks |
 
 ---
 
